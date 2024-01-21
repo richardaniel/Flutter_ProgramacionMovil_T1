@@ -17,5 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 
 Example functionality:
+
 ![Alt text](image.png)
+
+
+
 ![Alt text](image-1.png)
